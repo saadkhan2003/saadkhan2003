@@ -79,6 +79,6 @@
   <a href="https://instagram.com/saadkhnoff" target="_blank"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram" /></a>
   <a href="https://fiverr.com/saadkhan_2003" target="_blank"><img src="https://img.shields.io/badge/Fiverr-00b22d?style=for-the-badge&logo=fiverr" /></a>
   <a href="https://upwork.com/freelancers/~018f24f13e24272642" target="_blank"><img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork" /></a>
-  <a href="mailto:saadkhanxyz@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:msaad.official6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
