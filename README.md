@@ -36,9 +36,20 @@
 
 ---
 
+
+
+## 🔥 Metrics & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saadkhan2003&theme=radical&no-frame=true&title=Stars,Followers,Commits,Repositories&margin-w=15&column=4" />
+</p>
+
+---
+
+
 ## 🛠️ My Tech Stack
 
-<p align="left">
+<p align="Center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -52,14 +63,7 @@
 
 ---
 
-## 🔥 Metrics & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadkhan2003&theme=radical&no-frame=true&title=Stars,Followers,Commits,Repositories&margin-w=15&column=4" />
-</p>
-
----
-
+<!--
 ## 📌 Featured Projects
 
 - 🔗 [Project 1 – Portfolio Website](https://github.com/saadkhan2003/portfolio) – Personal site built with React
@@ -67,7 +71,7 @@
 - 🔗 [Project 3 – Landing Page Template](https://github.com/saadkhan2003/landing-page-template)
 
 ---
-
+-->
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -78,8 +82,3 @@
   <a href="mailto:saadkhanxyz@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
-> 📢 **Pro Tip:** Add this markdown to your `saadkhan2003/saadkhan2003` repo's `README.md`.
-
----
