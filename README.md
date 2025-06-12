@@ -3,7 +3,7 @@
 <h3 align="center">Marketing Lead @ OWASP Swabi | General Secretary at MLSA - University of Swabi | Web Dev Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub!;I+love+designing+and+building+websites.;Let's+connect+and+collaborate!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub!;I+love+developing+and+building+websites.;Let's+connect+and+collaborate!" alt="Typing SVG" />
 </p>
 
 ---
