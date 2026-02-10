@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Muhammad Saad Khan</h1>
-<h3 align="center">Applied AI Engineer | LLM Developer | Backend & Agent Systems Builder</h3>
+<h3 align="center">Applied AI Engineer | Backend & Agent Systems Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+LLM-Powered+Apps+and+AI+Agents.;Designing+RAG+and+Automation+Workflows.;Exploring+LangChain,+FastAPI,+and+OpenRouter+LLMs." alt="Typing SVG" />
