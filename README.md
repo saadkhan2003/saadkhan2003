@@ -98,16 +98,14 @@ LLM-powered PDF assistant that processes academic papers, extracts insights, and
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadkhan2003&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadkhan2003&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="170"/>
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=saadkhan2003&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadkhan2003&theme=react-dark&bg_color=0d1117&color=58a6ff&line=1d4ed8&point=58a6ff&area=true&area_color=1d4ed8&hide_border=true" width="95%"/>
+</p>
 ---
 
 ## 🏅 Certifications
