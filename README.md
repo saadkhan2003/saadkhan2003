@@ -16,7 +16,7 @@
 
 ---
 
-## ⚡ Who I Am
+## Who I Am
 
 ```python
 saad = {
@@ -32,7 +32,7 @@ saad = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -46,7 +46,7 @@ Real-time surveillance AI using **YOLOv8 + OpenVINO**. Detects crowds, weapons, 
 </td>
 <td width="50%" valign="top">
 
-### 🫁 [ChestXray AI Diagnostic](https://github.com/saadkhan2003/Chest_Xray_Analysis)
+### [ChestXray AI Diagnostic](https://github.com/saadkhan2003/Chest_Xray_Analysis)
 Medical imaging AI that detects **Pneumonia & COVID-19** from chest X-rays using Transfer Learning and CNNs. Deployed in a Streamlit app with explainable AI (XAI) confidence scoring for interpretable diagnostics.
 
 `TensorFlow` `Transfer Learning` `Explainable AI` `Streamlit`
@@ -56,7 +56,7 @@ Medical imaging AI that detects **Pneumonia & COVID-19** from chest X-rays using
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [AI Data Visualization Agent](https://github.com/saadkhan2003/Data_Analysis_and_Visualization_Agent)
+### [AI Data Visualization Agent](https://github.com/saadkhan2003/Data_Analysis_and_Visualization_Agent)
 Upload a CSV, ask a natural language question — get a chart. Powered by **Google Gemini** to auto-generate and execute Python visualization code locally using pandas, matplotlib, seaborn, and Plotly.
 
 `Gemini API` `Streamlit` `Pandas` `Plotly` `Code Generation`
@@ -64,7 +64,7 @@ Upload a CSV, ask a natural language question — get a chart. Powered by **Goog
 </td>
 <td width="50%" valign="top">
 
-### 🔬 [AI Research Assistant (RAG)](https://github.com/saadkhan2003/Documind_AI_Document_Assistant)
+### [AI Research Assistant (RAG)](https://github.com/saadkhan2003/Documind_AI_Document_Assistant)
 LLM-powered PDF assistant that processes academic papers, extracts insights, and answers queries using **LangChain + RAG** with vector database retrieval. Built for researchers who need answers, not summaries.
 
 `LangChain` `RAG` `Vector DB` `OpenRouter` `Prompt Engineering`
@@ -75,7 +75,7 @@ LLM-powered PDF assistant that processes academic papers, extracts insights, and
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 <table>
 <tr><td><b>Applied AI & LLMs</b></td><td>GPT · Gemini · OpenRouter · LangChain · LangGraph · AutoGen · RAG · Prompt Engineering · Agentic Workflows</td></tr>
@@ -88,7 +88,7 @@ LLM-powered PDF assistant that processes academic papers, extracts insights, and
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch,js,postgresql,docker,git,github,linux,vscode,vercel&theme=dark&perline=12" />
@@ -96,7 +96,7 @@ LLM-powered PDF assistant that processes academic papers, extracts insights, and
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 
 
@@ -108,7 +108,7 @@ LLM-powered PDF assistant that processes academic papers, extracts insights, and
 </p>
 ---
 
-## 🏅 Certifications
+## Certifications
 
 | Certificate | Issuer | Date |
 |---|---|---|
@@ -117,7 +117,7 @@ LLM-powered PDF assistant that processes academic papers, extracts insights, and
 
 ---
 
-## 🌍 Community & Leadership
+## Community & Leadership
 
 **General Secretary** — Microsoft Learn Student Ambassadors (MLSA), University of Swabi *(Mar 2024 – Present)*  
 Mentoring students in tech careers, organizing learning sessions, and driving CS community growth on campus.
@@ -130,7 +130,7 @@ Designed standees and visuals to promote digital productivity and research organ
 
 ---
 
-## 🤝 Connect
+## Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/saadkhan2003">
