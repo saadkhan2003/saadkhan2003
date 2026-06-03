@@ -38,7 +38,7 @@ saad = {
 <tr>
 <td width="50%" valign="top">
 
-### 📹 [CCTV Anomaly Detection](https://github.com/saadkhan2003/CCTV_Video_Anomaly_Detection)
+### [CCTV Anomaly Detection](https://github.com/saadkhan2003/CCTV_Video_Anomaly_Detection)
 Real-time surveillance AI using **YOLOv8 + OpenVINO**. Detects crowds, weapons, loitering, and conflicts from CCTV feeds. Achieves **2–3× CPU speedup** via OpenVINO model optimization with ByteTrack tracking, email alerts, and a glassmorphism dashboard UI.
 
 `YOLOv8` `OpenVINO` `FastAPI` `ByteTrack` `Computer Vision`
