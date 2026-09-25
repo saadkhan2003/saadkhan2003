@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=220&section=header&text=Muhammad%20Saad%20Khan&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=36&desc=Founder%20%26%20CEO%20%40%20Stack%20and%20Scale%20%7C%20Applied%20AI%20Engineer&descAlignY=58&descSize=16&descColor=8b949e" width="100%" />
 
 <!-- Typing SVG Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Founder+%26+CEO+%40+Stack+and+Scale.;Applied+AI+Engineer+%E2%80%94+LLMs%2C+FastAPI+%26+RAG+Systems.;Building+autonomous+AI+Agents+%26+intelligent+automations.;Useful+intelligence%2C+built+into+production-ready+products." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Founder+%26+CEO+%40+Stack+and+Scale.;Applied+AI+Engineer+%E2%80%94+Solving+real-world+challenges+with+modern+ML+%26+LLMs.;Architecting+autonomous+AI+systems+%26+intelligent+automations.;Engineering+high-performance+production-ready+software." alt="Typing SVG" />
 
 <p align="center">
   <a href="https://saad-khan.xyz/">
@@ -36,20 +36,25 @@ saad = {
     "title"       : "Founder & CEO @ Stack and Scale | Applied AI Engineer",
     "location"    : "Jehangira, Swabi, Khyber Pakhtunkhwa, Pakistan 🇵🇰",
     "education"   : "BS Computer Science — University of Swabi (2022–2026)",
-    "expertise"   : ["LLM Systems & Agents", "RAG Pipelines", "FastAPI & Backend Systems", "Computer Vision"],
+    "expertise"   : [
+        "Applied Machine Learning",
+        "Modern LLMs & Multi-Agent Systems",
+        "FastAPI & Scalable Backends",
+        "Computer Vision & Edge Optimization"
+    ],
     "experience"  : [
         "Founder & CEO / CTO @ Stack and Scale (Sep 2026 – Present)",
         "AI/ML Engineer Intern (Remote) @ SafeX Solutions (Jul 2026 – Sep 2026)"
     ],
-    "philosophy"  : "Useful intelligence, built into real products that solve operational problems",
+    "philosophy"  : "Solving complex real-world problems with modern ML, LLMs, and scalable engineering",
     "website"     : "https://saad-khan.xyz",
     "company"     : "https://stackandscale.org"
 }
 ```
 
-I’m an **Applied AI Engineer** passionate about designing and shipping production-ready systems that integrate Large Language Models (LLMs) with high-performance backend architectures. 
+I’m an **Applied AI Engineer and Founder** passionate about building modern, intelligent solutions to solve persistent operational challenges. Rather than surface-level wrappers, I engineer production-grade systems using **state-of-the-art machine learning models, modern LLM architectures, and robust backend engineering**.
 
-My work centers around architecting **LLM-powered applications using Python, FastAPI, and Retrieval-Augmented Generation (RAG)** to create robust, autonomous AI agents and enterprise solutions. From designing resilient APIs and vector database retrieval pipelines to optimizing inference and containerized workflows, I focus on turning advanced AI concepts into reliable software.
+My focus is on transforming real-world bottlenecks into resilient, deployable products—from fine-tuning and orchestrating next-gen models, multi-agent reasoning, and computer vision to building high-throughput FastAPI backends, vector data pipelines, and optimized inference workflows.
 
 ---
 
@@ -64,8 +69,8 @@ My work centers around architecting **LLM-powered applications using Python, Fas
 *September 2026 – Present · Swabi, Pakistan*
 
 - Leading a founder-led product and engineering practice dedicated to operational software, enterprise systems, and applied AI delivery.
-- Designing LLM-driven agents, document pipelines, and scalable backend foundations for mission-critical client workflows.
-- Architecting robust full-stack software and intelligent automations that maintain long-term reliability post-launch.
+- Designing intelligent agent systems, domain-tailored ML models, and scalable backend foundations for mission-critical client workflows.
+- Architecting robust full-stack software and automations that solve complex operational problems and maintain long-term reliability.
 
 </td>
 <td width="50%" valign="top">
@@ -74,9 +79,9 @@ My work centers around architecting **LLM-powered applications using Python, Fas
 **SafeX Solutions**  
 *July 2026 – September 2026 · Remote Internship*
 
-- **Custom Chatbots & RAG**: Built conversational AI chatbots connected to document-based RAG pipelines for grounded, citation-backed Q&A.
-- **Agentic Prototypes**: Developed end-to-end AI agent systems using prompt chaining and autonomous tool integration to automate complex operational tasks.
-- **Backend Delivery**: Engineered lightweight, asynchronous FastAPI backends to seamlessly embed chatbot services and AI agents into web applications.
+- **Intelligent Chatbots & Knowledge Grounding**: Built conversational AI solutions connected to dynamic document and data pipelines for grounded, citation-backed enterprise Q&A.
+- **Agentic Prototypes**: Developed end-to-end autonomous AI systems using prompt chaining and tool integration to automate complex operational workflows.
+- **Backend Delivery**: Engineered lightweight, asynchronous FastAPI backends to seamlessly embed intelligent models and AI services into production web apps.
 
 </td>
 </tr>
@@ -108,10 +113,10 @@ Real-time surveillance AI using **YOLOv8 + OpenVINO**. Detects crowds, weapons, 
 <tr>
 <td width="50%" valign="top">
 
-### 📄 [Documind: AI Research Assistant (RAG)](https://github.com/saadkhan2003/Documind_AI_Document_Assistant)
-LLM-powered document intelligence system that ingests academic papers and complex documentation, extracts grounded insights, and answers context-specific queries using **LangChain + RAG** with vector database retrieval.
+### 📄 [Documind: AI Research & Document Assistant](https://github.com/saadkhan2003/Documind_AI_Document_Assistant)
+LLM-powered document intelligence system that ingests academic papers and complex documentation, extracts grounded insights, and answers context-specific queries using semantic retrieval and multi-document reasoning.
 
-`LangChain` `RAG` `Vector DB` `OpenRouter` `Prompt Engineering`
+`LangChain` `Semantic Search` `Vector DB` `OpenRouter` `Prompt Engineering`
 
 </td>
 <td width="50%" valign="top">
@@ -149,12 +154,12 @@ The official platform powering **[Stack and Scale](https://stackandscale.org/)**
 
 <table>
 <tr>
-  <td width="25%"><b>AI & LLM Systems</b></td>
-  <td>RAG Systems · Autonomous AI Agents · LangChain · LangGraph · AutoGen · Prompt Chaining · Tool Use · Vector Databases (ChromaDB) · Model Serving · Google Gemini API · OpenAI / OpenRouter</td>
+  <td width="25%"><b>Modern AI & LLM Systems</b></td>
+  <td>Autonomous AI Agents · Multi-Agent Workflows · Model Serving & Inference · Semantic Search · LangChain · LangGraph · AutoGen · Tool Use & Function Calling · Vector Databases · Google Gemini API · OpenAI / OpenRouter</td>
 </tr>
 <tr>
-  <td><b>Backend & APIs</b></td>
-  <td>Python · FastAPI · RESTful APIs · Rust · Tauri v2 · Microservices · System Architecture</td>
+  <td><b>Backend & Systems</b></td>
+  <td>Python · FastAPI · RESTful APIs · Rust · Tauri v2 · Microservices · Asynchronous Architecture</td>
 </tr>
 <tr>
   <td><b>Computer Vision & ML</b></td>
