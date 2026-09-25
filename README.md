@@ -39,7 +39,7 @@ saad = {
     "expertise"   : ["LLM Systems & Agents", "RAG Pipelines", "FastAPI & Backend Systems", "Computer Vision"],
     "experience"  : [
         "Founder & CEO / CTO @ Stack and Scale (Sep 2026 – Present)",
-        "AI/ML Engineer @ SafeX Solutions (Jul 2026 – Sep 2026)"
+        "AI/ML Engineer Intern (Remote) @ SafeX Solutions (Jul 2026 – Sep 2026)"
     ],
     "philosophy"  : "Useful intelligence, built into real products that solve operational problems",
     "website"     : "https://saad-khan.xyz",
@@ -70,9 +70,9 @@ My work centers around architecting **LLM-powered applications using Python, Fas
 </td>
 <td width="50%" valign="top">
 
-### 🤖 **AI / ML Engineer**
+### 🤖 **AI / ML Engineer Intern (Remote)**
 **SafeX Solutions**  
-*July 2026 – September 2026 (3 months)*
+*July 2026 – September 2026 · Remote Internship*
 
 - **Custom Chatbots & RAG**: Built conversational AI chatbots connected to document-based RAG pipelines for grounded, citation-backed Q&A.
 - **Agentic Prototypes**: Developed end-to-end AI agent systems using prompt chaining and autonomous tool integration to automate complex operational tasks.
