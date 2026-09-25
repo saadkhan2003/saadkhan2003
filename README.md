@@ -82,6 +82,7 @@ My focus is on transforming real-world bottlenecks into resilient, deployable pr
 - **Intelligent Chatbots & Knowledge Grounding**: Built conversational AI solutions connected to dynamic document and data pipelines for grounded, citation-backed enterprise Q&A.
 - **Agentic Prototypes**: Developed end-to-end autonomous AI systems using prompt chaining and tool integration to automate complex operational workflows.
 - **Backend Delivery**: Engineered lightweight, asynchronous FastAPI backends to seamlessly embed intelligent models and AI services into production web apps.
+- 📜 **[View Internship Certificate](https://drive.google.com/file/d/1qP3M7cpq9cFelymFbWDppNJxC5yjYcpF/view?usp=sharing)**: Verified SafeX Solutions AI/ML Internship credential.
 
 </td>
 </tr>
@@ -203,6 +204,7 @@ The official platform powering **[Stack and Scale](https://stackandscale.org/)**
 <td width="50%" valign="top">
 
 ### 🏅 Certifications
+- 📜 **[SafeX Solutions AI/ML Internship Certificate](https://drive.google.com/file/d/1qP3M7cpq9cFelymFbWDppNJxC5yjYcpF/view?usp=sharing)** — *SafeX Solutions (Verified Credential)*
 - 🤖 **AI Agentic Design Patterns with AutoGen** — *DeepLearning.AI*
 - 🧠 **RAG Based AI Agents** — *DeepLearning.AI*
 - 🔗 **LangChain for LLM Application Development** — *DeepLearning.AI*
@@ -243,8 +245,12 @@ The official platform powering **[Stack and Scale](https://stackandscale.org/)**
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://bio.link/saadkhnoff">
-    <img src="https://img.shields.io/badge/Bio.link-000000?style=for-the-badge&logo=linktree&logoColor=white" />
+  <a href="https://www.instagram.com/saadkhanoff_/">
+    <img src="https://img.shields.io/badge/Instagram-%40saadkhanoff__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/saadkhanoff/">
+    <img src="https://img.shields.io/badge/Facebook-saadkhanoff-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
