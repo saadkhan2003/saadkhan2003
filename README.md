@@ -1,10 +1,11 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=220&section=header&text=Muhammad%20Saad%20Khan&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=36&desc=Founder%20%26%20CEO%20%40%20Stack%20and%20Scale%20%7C%20Applied%20AI%20Engineer&descAlignY=58&descSize=16&descColor=8b949e" width="100%" />
+# 👨‍💻 Muhammad Saad Khan
+### Founder & CEO @ [Stack and Scale](https://stackandscale.org/) · Applied AI Engineer
 
-<!-- Typing SVG Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Founder+%26+CEO+%40+Stack+and+Scale.;Applied+AI+Engineer+%E2%80%94+Solving+real-world+challenges+with+modern+ML+%26+LLMs.;Architecting+autonomous+AI+systems+%26+intelligent+automations.;Engineering+high-performance+production-ready+software." alt="Typing SVG" />
+<p align="center">
+  <b>Solving real-world operational challenges with modern ML models, intelligent systems, and scalable engineering.</b>
+</p>
 
 <p align="center">
   <a href="https://saad-khan.xyz/">
@@ -22,6 +23,14 @@
   <a href="mailto:msaad.official6@gmail.com">
     <img src="https://img.shields.io/badge/Email-msaad.official6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://www.instagram.com/saadkhanoff_/">
+    <img src="https://img.shields.io/badge/Instagram-saadkhanoff__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/saadkhanoff/">
+    <img src="https://img.shields.io/badge/Facebook-saadkhanoff-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
 
 </div>
@@ -34,7 +43,7 @@
 saad = {
     "name"        : "Muhammad Saad Khan",
     "title"       : "Founder & CEO @ Stack and Scale | Applied AI Engineer",
-    "location"    : "Jehangira, Swabi, Khyber Pakhtunkhwa, Pakistan 🇵🇰",
+    "location"    : "Jehangira, Swabi, Khyber Pakhtunkhwa, Pakistan",
     "education"   : "BS Computer Science — University of Swabi (2022–2026)",
     "expertise"   : [
         "Applied Machine Learning",
@@ -255,5 +264,6 @@ The official platform powering **[Stack and Scale](https://stackandscale.org/)**
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f35,100:0d1117&height=120&section=footer" width="100%" />
+  <br />
+  <sub>⚡ Designed & Engineered by Muhammad Saad Khan · Founder & CEO @ <a href="https://stackandscale.org/">Stack and Scale</a></sub>
 </div>
