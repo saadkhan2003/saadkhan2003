@@ -214,7 +214,7 @@ The official platform powering **[Stack and Scale](https://stackandscale.org/)**
 
 ### 🏅 Certifications
 - 📜 **[SafeX Solutions AI/ML Internship Certificate](https://drive.google.com/file/d/1qP3M7cpq9cFelymFbWDppNJxC5yjYcpF/view?usp=sharing)** — *SafeX Solutions (Verified Credential)*
-- 🤖 **AI Agentic Design Patterns with AutoGen** — *DeepLearning.AI*
+- 🤖 **[AI Agentic Design Patterns with AutoGen](https://learn.deeplearning.ai/accomplishments/60b38daa-3353-4675-8e64-6a0d97edde6a?usp=sharing)** — *DeepLearning.AI · Microsoft & Penn State University (Verified Credential)*
 - 🧠 **RAG Based AI Agents** — *DeepLearning.AI*
 - 🔗 **LangChain for LLM Application Development** — *DeepLearning.AI*
 
