@@ -114,9 +114,9 @@ Enterprise offline-first retail, inventory, and repair management desktop ERP. B
 <td width="50%" valign="top">
 
 ### 📹 [CCTV Anomaly Detection](https://github.com/saadkhan2003/CCTV_Video_Anomaly_Detection)
-Real-time surveillance AI using **YOLOv8 + OpenVINO**. Detects crowds, weapons, loitering, and conflicts from live CCTV feeds. Achieves **2–3× CPU speedup** via OpenVINO model quantization, ByteTrack tracking, automated email alerts, and a modern glassmorphism UI.
+Real-time surveillance AI using **YOLOv11 + OpenVINO**. Detects crowds, weapons, loitering, and conflicts from live CCTV feeds. Achieves **2–3× CPU speedup** via OpenVINO model quantization, ByteTrack tracking, automated email alerts, and a modern glassmorphism UI.
 
-`YOLOv8` `OpenVINO` `FastAPI` `ByteTrack` `Computer Vision`
+`YOLOv11` `OpenVINO` `FastAPI` `ByteTrack` `Computer Vision`
 
 </td>
 </tr>
@@ -142,7 +142,7 @@ Natural-language data science agent. Upload a CSV/Excel dataset and ask question
 <td width="50%" valign="top">
 
 ### 🫁 [ChestXray AI Diagnostic](https://github.com/saadkhan2003/Chest_Xray_Analysis)
-Medical imaging diagnostic system that detects **Pneumonia & COVID-19** from chest X-rays using Transfer Learning and deep CNNs. Deployed in a Streamlit app featuring explainable AI (XAI) confidence scoring.
+Medical imaging diagnostic system that detects **Pneumonia** from chest X-rays using Transfer Learning and deep CNNs. Deployed in a Streamlit app featuring explainable AI (XAI) confidence scoring.
 
 `TensorFlow` `Transfer Learning` `Explainable AI` `Streamlit`
 
@@ -173,7 +173,7 @@ The official platform powering **[Stack and Scale](https://stackandscale.org/)**
 </tr>
 <tr>
   <td><b>Computer Vision & ML</b></td>
-  <td>YOLOv8 · OpenVINO · TensorFlow · PyTorch · CNNs · Transfer Learning · ByteTrack · Explainable AI (XAI)</td>
+  <td>YOLOv11 · OpenVINO · TensorFlow · PyTorch · CNNs · Transfer Learning · ByteTrack · Explainable AI (XAI)</td>
 </tr>
 <tr>
   <td><b>Databases & Storage</b></td>
