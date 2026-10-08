@@ -144,7 +144,7 @@ Natural-language data science agent. Upload a CSV/Excel dataset and ask question
 ### 🫁 [ChestXray AI Diagnostic](https://github.com/saadkhan2003/Chest_Xray_Analysis)
 Medical imaging diagnostic system that detects **Pneumonia** from chest X-rays using Transfer Learning and deep CNNs. Deployed in a Streamlit app featuring explainable AI (XAI) confidence scoring.
 
-`TensorFlow` `Transfer Learning` `Explainable AI` `Streamlit`
+`PyTorch` `Transfer Learning` `Explainable AI` `Streamlit`
 
 </td>
 <td width="50%" valign="top">
@@ -173,7 +173,7 @@ The official platform powering **[Stack and Scale](https://stackandscale.org/)**
 </tr>
 <tr>
   <td><b>Computer Vision & ML</b></td>
-  <td>YOLOv11 · OpenVINO · TensorFlow · PyTorch · CNNs · Transfer Learning · ByteTrack · Explainable AI (XAI)</td>
+  <td>YOLOv11 · OpenVINO · PyTorch · PyTorch · CNNs · Transfer Learning · ByteTrack · Explainable AI (XAI)</td>
 </tr>
 <tr>
   <td><b>Databases & Storage</b></td>
@@ -190,7 +190,7 @@ The official platform powering **[Stack and Scale](https://stackandscale.org/)**
 </table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,rust,tauri,tensorflow,pytorch,postgres,docker,git,github,linux,ts,js,vscode,vercel&theme=dark&perline=15" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,rust,tauri,PyTorch,pytorch,postgres,docker,git,github,linux,ts,js,vscode,vercel&theme=dark&perline=15" />
 </p>
 
 ---
